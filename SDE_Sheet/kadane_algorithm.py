@@ -1,5 +1,5 @@
 l=[-2,1,-3,4,-1,2,1,-5,4]
-maxsum = 0
+maxsum =  - float('inf)
 currsum = 0
 for i in range (len(l)):
           currsum = currsum + l[i]
